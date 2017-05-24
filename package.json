@@ -1,6 +1,6 @@
 {
   "name": "visense-tools",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "ViSense API tools",
   "author": "ViNotion B.V. <github@vinotion.nl>",
   "homepage": "http://www.vinotion.nl",
@@ -16,9 +16,9 @@
   },
   "main": "index.js",
   "dependencies": {
-    "commander": "~2.8.x",
-    "validator": "~5.5.x",
-    "ws": "~2.2.x",
+    "commander": "~2.9.x",
+    "validator": "~7.0.x",
+    "ws": "~3.0.x",
     "request": "~2.81.x",
     "request-promise-native": "~1.0.x"
   },
